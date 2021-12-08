@@ -4,7 +4,8 @@ const {
     getPizzaById,
     createPizza,
     updatePizza,
-    deletePizza
+    deletePizza,
+    getAllPizzas
 } = require('../../controllers/pizza-controller')
 
 router 
